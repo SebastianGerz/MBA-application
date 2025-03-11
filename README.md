@@ -1,4 +1,4 @@
-# MBA Application Strategy
+# MBA Application Strategy for Sebastian Gerz
 This repository contains all relevant information and documents for my MBA applications to top business schools in the United States.
 
 ## Objective
